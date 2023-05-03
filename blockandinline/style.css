@@ -1,0 +1,7 @@
+span.box {
+    display: inline-block;
+    width: 100px;
+    height:160px;
+    padding: 18px;
+    border: 2px solid red;
+}
